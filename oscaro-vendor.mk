@@ -1008,7 +1008,6 @@ PRODUCT_PACKAGES += \
     libthreadutils \
     sensors.ssc \
     vendor.oplus.hardware.cammidasservice@1.0 \
-    vendor.oplus.hardware.osense.client-V1-ndk_platform \
     vendor.qti.hardware.camera.postproc@1.0-service-impl \
     libVDBayerHDR \
     libVDExternal \
@@ -1149,8 +1148,6 @@ PRODUCT_PACKAGES += \
     libsymphony-cpu \
     libwatermark_photo \
     libyuvwrapper \
-    vendor.oplus.hardware.cammidasservice-V1-ndk_platform \
-    vendor.oplus.hardware.commondcs-V1-ndk_platform \
     vendor.oplus.hardware.orms@1.0 \
     vendor.oplus.hardware.osense.client@1.0 \
     odm_lib_rfsa_adsp_libarc_gk_pt_hvx_skel_so \
