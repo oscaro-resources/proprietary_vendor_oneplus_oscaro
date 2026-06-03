@@ -1131,7 +1131,6 @@ PRODUCT_PACKAGES += \
     libml_util \
     libmotionblur \
     libmpbase \
-    libop-ai-beauty-body-detection \
     libop-ai-beauty-faceretouch-cn \
     liboplusblur_capture_api \
     libormshalclient \

@@ -10683,32 +10683,6 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-    name: "libop-ai-beauty-body-detection",
-    owner: "oneplus",
-    strip: {
-        none: true,
-    },
-    target: {
-        android_arm64: {
-            srcs: [
-                "proprietary/odm/lib64/libop-ai-beauty-body-detection.so",
-            ],
-            shared_libs: [
-                "libSNPE",
-                "libc++_shared",
-                "liblog",
-                "libdl",
-                "libc",
-                "libm",
-            ],
-        },
-    },
-    compile_multilib: "64",
-    prefer: true,
-    device_specific: true,
-}
-
-cc_prebuilt_library_shared {
     name: "libop-ai-beauty-faceretouch-cn",
     owner: "oneplus",
     strip: {
