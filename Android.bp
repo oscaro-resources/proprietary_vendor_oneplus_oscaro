@@ -11284,7 +11284,7 @@ cc_prebuilt_library_shared {
 }
 
 prebuilt_rfsa {
-    name: "libarc_gk_pt_hvx_skel",
+    name: "odm_lib_rfsa_adsp_libarc_gk_pt_hvx_skel_so",
     filename: "libarc_gk_pt_hvx_skel.so",
     owner: "oneplus",
     src: "proprietary/odm/lib/rfsa/adsp/libarc_gk_pt_hvx_skel.so",
@@ -11293,7 +11293,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "libvdblurless_4.6.10J_skel",
+    name: "odm_lib_rfsa_adsp_libvdblurless_4_6_10J_skel_so",
     filename: "libvdblurless_4.6.10J_skel.so",
     owner: "oneplus",
     src: "proprietary/odm/lib/rfsa/adsp/libvdblurless_4.6.10J_skel.so",

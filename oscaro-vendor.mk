@@ -1154,8 +1154,8 @@ PRODUCT_PACKAGES += \
     vendor.oplus.hardware.commondcs-V1-ndk_platform \
     vendor.oplus.hardware.orms@1.0 \
     vendor.oplus.hardware.osense.client@1.0 \
-    libarc_gk_pt_hvx_skel \
-    libvdblurless_4.6.10J_skel \
+    odm_lib_rfsa_adsp_libarc_gk_pt_hvx_skel_so \
+    odm_lib_rfsa_adsp_libvdblurless_4_6_10J_skel_so \
     manifest_oplus_fingerprint.xml \
     vendor.oplus.hardware.biometrics.fingerprint@2.1-service \
     init.oplus.fingerprints
